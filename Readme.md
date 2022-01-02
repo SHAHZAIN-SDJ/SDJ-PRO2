@@ -13,7 +13,7 @@
   <a href="https://github.com/SHAHZAIN-SDJ/SDJ-PRO">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/SHAHZAIN-SDJ/SDJ-PRO.svg"/>
   </a>
-  <a href="https://github.com/SHAHZAIN-SDJ/SDJ-PRO">
+  <a href="https://github.com/SHAHZAIN-SDJ/SDJ-PRO2">
     <img alt="Language" src="https://img.shields.io/github/languages/count/SHAHZAIN-SDJ/SDJ-PRO.svg"/>
 
   </a>
