@@ -1,5 +1,5 @@
 <h1 align="center">
-  SDJ-PRO
+  SDJ-PRO2
 </h1>
 </div>
 <p align="center">
@@ -10,11 +10,11 @@
 <a href="https://github.com/SHAHZAIN-SDJ/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/SHAHZAIN-SDJ?label=Followers&color=blue&style=flat-square"></a>
 <a href="https://github.com/SHAHZAIN-SDJ/termux-style/stargazers/">
-  <a href="https://github.com/SHAHZAIN-SDJ/SDJ-PRO">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/SHAHZAIN-SDJ/SDJ-PRO.svg"/>
+  <a href="https://github.com/SHAHZAIN-SDJ/SDJ-PRO2">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/SHAHZAIN-SDJ/SDJ-PRO2.svg"/>
   </a>
   <a href="https://github.com/SHAHZAIN-SDJ/SDJ-PRO2">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/SHAHZAIN-SDJ/SDJ-PRO.svg"/>
+    <img alt="Language" src="https://img.shields.io/github/languages/count/SHAHZAIN-SDJ/SDJ-PRO2.svg"/>
 
   </a>
 </div>
