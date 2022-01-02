@@ -23,19 +23,19 @@
 #### Install script on Termux
 ```bash
 $ cd
-$ rm -rf SDJ-PRO
+$ rm -rf SDJ-PRO2
 $ termux-setup-storage
 $ apt update 
 $ apt upgrade
 $ pkg install python2
 $ pkg install git
-$ git clone https://github.com/SHAHZAIN-SDJ/SDJ-PRO
+$ git clone https://github.com/SHAHZAIN-SDJ/SDJ-PRO2
 $ pip2 install requests bs4
 $ pip2 install futures
 ```
 #### Run script
 ```bash
-$ cd SDJ-PRO
+$ cd SDJ-PRO2
 $ python2 run.py
 ```
 #### MY SOCIAL MEDIA
@@ -46,6 +46,5 @@ $ python2 run.py
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/SHAHZAIN-SDJ/count.svg" />
 </p>
-CREDIT TO : https://github.com/yayan-XD
 ##### Notice Me : Please SUBSCRIBE OUR YOUTUBE 
 LINK:https://www.youtube.com/channel/UCgg2SsDgxcKQm-a4QLqCvuA
