@@ -20,6 +20,14 @@
 </div>
 <p align="center">
 
+#### *TEAM PROJECT*
+```bash
+  SYED SHAHWAIZ SHAH
+  BILAL KHAN
+  JEECK X NANO
+  REHMAT
+  PAHRUL AGUSPARNIA X
+  ```
 #### Install script on Termux
 ```bash
 $ cd
